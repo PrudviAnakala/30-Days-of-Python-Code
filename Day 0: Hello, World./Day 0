@@ -1,0 +1,9 @@
+#Read a full line of input from stdin and saved it to our dynamically typed variable , input_string
+
+input_string = input()
+
+#Print a string literal to "Hello,World. " to stdout
+
+print("Hello,World.")
+
+#Write a line of code that it prints the content of input_string to stdout.
